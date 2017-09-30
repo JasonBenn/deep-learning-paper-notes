@@ -1,6 +1,7 @@
 #### 2017-09
 
 * [Blog: DRAW: Deep Recurrent Attentive Writer](https://medium.com/paper-club/draw-generating-small-images-by-adding-attention-to-variational-autoencoders-430ba241972b) ([arxiv](https://arxiv.org/abs/1502.04623))
+* DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](notes/devise.md)]
 
 #### 2017-08
 
