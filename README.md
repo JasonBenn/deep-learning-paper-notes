@@ -4,7 +4,7 @@
 
 #### 2017-08
 
-*
+* [Blog: Recurrent Convolutional Neural Networks for Text Classification](https://medium.com/paper-club/cnns-for-text-classification-b45bde0bb254) ([arxiv](https://scholar.google.com/scholar?q=Recurrent+Convolutional+Neural+Networks+for+Text+Classification&btnG=&hl=en&as_sdt=0%2C5))
 
 #### 2017-07
 
