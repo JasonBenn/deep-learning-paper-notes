@@ -26,3 +26,4 @@
 * Residual Networks of Residual Networks: Multilevel Residual Networks [[arxiv](https://arxiv.org/abs/1608.02908v2)] [[notes](notes/residual-networks-of-residual-networks.md)]
 * Deep Residual Learning for Image Recognition [[arxiv](https://arxiv.org/pdf/1512.03385.pdf]) [[notes](notes/deep-residual-learning-for-image-recognition.md)]
 
+Credit: [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
