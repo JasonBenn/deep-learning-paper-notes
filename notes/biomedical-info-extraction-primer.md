@@ -1,3 +1,5 @@
+## [A Biomedical Information Extraction Primer for NLP Researchers](https://arxiv.org/abs/1705.05437)
+
 #### Key points:
 
 * NER is more difficult in biomedical text. "Heart attack" and "myocardial infarction" are synonyms, for example, and proteins can be described in one of several formats.
