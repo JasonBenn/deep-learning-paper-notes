@@ -8,7 +8,7 @@
 
 #### 2017-07
 
-*
+* [Blog: Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding](https://medium.com/paper-club/multimodal-compact-bilinear-pooling-for-visual-question-answering-and-visual-grounding-6f71bc7d0566) ([arxiv](https://arxiv.org/abs/1606.01847))
 
 #### 2017-06
 
