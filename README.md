@@ -1,5 +1,9 @@
 ## Paper notes
 
+#### 2017-10
+
+* [Short summaries for a variety of attention papers](notes/attention.md)
+
 #### 2017-09
 
 * DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](notes/devise.md)]
@@ -32,6 +36,7 @@
 
 #### Other collections of paper reviews
 
+* [the morning paper](https://blog.acolyer.org/tag/deep-learning)
 * [/dennybritz/deeplearning-papernotes](/dennybritz/deeplearning-papernotes)
 * [/hoangcuong2011/Good-Papers](/hoangcuong2011/Good-Papers)
 
