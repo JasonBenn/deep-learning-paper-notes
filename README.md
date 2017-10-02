@@ -1,3 +1,5 @@
+## Paper notes
+
 #### 2017-09
 
 * DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](notes/devise.md)]
@@ -26,4 +28,18 @@
 * Residual Networks of Residual Networks: Multilevel Residual Networks [[arxiv](https://arxiv.org/abs/1608.02908v2)] [[notes](notes/residual-networks-of-residual-networks.md)]
 * Deep Residual Learning for Image Recognition [[arxiv](https://arxiv.org/pdf/1512.03385.pdf]) [[notes](notes/deep-residual-learning-for-image-recognition.md)]
 
-Format inspired by [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes).
+---
+
+#### Other collections of paper reviews
+
+* [/dennybritz/deeplearning-papernotes](/dennybritz/deeplearning-papernotes)
+* [/hoangcuong2011/Good-Papers](/hoangcuong2011/Good-Papers)
+
+#### Where I find papers to read
+
+* [Tweets liked by Jeremy Howard](https://twitter.com/jeremyphoward/likes)
+* [terryum/awesome-deep-learning-papers](/terryum/awesome-deep-learning-papers)
+* [/songrotek/Deep-Learning-Papers-Reading-Roadmap](/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* ICML/NIPS paper awards
+* Papers with existing [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list) [implementations](https://github.com/ritchieng/the-incredible-pytorch)
+* [Twitter](https://twitter.com/jasoncbenn/likes)
