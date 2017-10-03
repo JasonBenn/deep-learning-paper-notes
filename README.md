@@ -49,3 +49,7 @@
 * ICML/NIPS paper awards
 * Papers with existing [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list) [implementations](https://github.com/ritchieng/the-incredible-pytorch)
 * [Twitter](https://twitter.com/jasoncbenn/likes)
+
+#### Collections of research notes
+
+* [Old (2011) research ideas/notes from Ian Goodfellow](https://github.com/goodfeli/galatea/blob/master/mission_log.txt)
