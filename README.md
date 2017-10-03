@@ -2,10 +2,11 @@
 
 #### 2017-10
 
-* [Short summaries for a variety of attention papers](notes/attention.md)
+* Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)] [[notes](notes/attention-is-all-you-need.md)]
 
 #### 2017-09
 
+* [Short summaries for a variety of attention papers](notes/attention.md)
 * DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](notes/devise.md)]
 * DRAW: Deep Recurrent Attentive Writer [[arxiv](https://arxiv.org/abs/1502.04623)] [[blog](https://medium.com/paper-club/draw-generating-small-images-by-adding-attention-to-variational-autoencoders-430ba241972b)]
 
