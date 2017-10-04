@@ -2,6 +2,7 @@
 
 #### 2017-10
 
+* Massive Exploration of Neural Machine Translation Architectures [[arxiv](http://arxiv.org/abs/1703.03906)] [[notes](notes/massive-exploration-of-nmt-architectures.md)]
 * Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)] [[notes](notes/attention-is-all-you-need.md)]
 
 #### 2017-09
