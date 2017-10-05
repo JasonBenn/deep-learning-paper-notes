@@ -1,6 +1,6 @@
 ## [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
-_Jun 12, 2017_
+_Jun 2017_
 
 tl;dr: sequence modeling has almost always been done by recurrent nets, but within an example these techniques are unparallelizable, which is a pain for tasks with very large examples. In this paper, researchers that were motivated by the potential performance benefits of a non-recurrent (and therefore parallelizable) architecture found that a purely attentional model with this property also happened to achieve a significant improvement on BLEU scores on translation tasks.
 
