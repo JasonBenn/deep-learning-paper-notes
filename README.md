@@ -2,6 +2,7 @@
 
 #### 2017-10
 
+* Grammar as a Foreign Language [[arxiv](http://arxiv.org/abs/1412.7449)][[notes](notes/grammar-as-a-foreign-language.md)]
 * Deep Convolutional Neural Network Design Patterns [[arxiv](http://arxiv.org/abs/1611.00847)][[notes](notes/deep-conv-net-design-patterns.md)]
 * Massive Exploration of Neural Machine Translation Architectures [[arxiv](http://arxiv.org/abs/1703.03906)] [[notes](notes/massive-exploration-of-nmt-architectures.md)]
 * Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)] [[notes](notes/attention-is-all-you-need.md)]
