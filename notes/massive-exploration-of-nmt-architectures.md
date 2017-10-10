@@ -25,7 +25,7 @@ My impression: nothing groundbreaking, but fantastic attention to reproducibilit
 
 * It's impressive that they ran each experiment "several" (4, I take it?) times and measured variance. I suppose this is required when an architecture frequently diverges. Perhaps better initialization is needed.
 
-* Is BLEU the right metric? [Some researchers report](http://forum.opennmt.net/t/metrics-bleu-ppl-gold-ppl-pred/249) that SMT and NMT get similar BLEU scores even though NMT is qualitatively better, in their opinion. A bilingual person's opinion after a read through a result dataset would be interesting to see. It's also fairly sensitive to
+* Is BLEU the right metric? [Some researchers report](http://forum.opennmt.net/t/metrics-bleu-ppl-gold-ppl-pred/249) that SMT and NMT get similar BLEU scores even though NMT is qualitatively better, in their opinion. A bilingual person's opinion after a read through a result dataset would be interesting to see.
 
 * This is a phrase that I want to understand better: "For deeper networks, we also experiment with two variants of residual connections to encourage gradient flow"
 
