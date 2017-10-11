@@ -1,6 +1,6 @@
 ## [Artistic Style Transfer For Videos](http://arxiv.org/abs/1604.08610)
 
-_Jun 2017_
+_Apr 2016_
 
 tl;dr: neural style transfer for videos is mostly just neural style transfer on each image + a penalty term for diverging too much from the previous frame, but there are lots of little tricks to make them look good: penalize deviations along "optical flow", don't penalize disoccluded spots, don't let artifacts at the frame edges form.
 
