@@ -1,4 +1,4 @@
-## [Residual Networks of Residual Networks: Multilevel Residual Networks](notes/residual-networks-of-residual-networks.md)
+## [Residual Networks of Residual Networks: Multilevel Residual Networks](https://arxiv.org/abs/1608.02908v2)
 
 tl;dr: This is a hyperparameter search paper for ResNet architectures.
 

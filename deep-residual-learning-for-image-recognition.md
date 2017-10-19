@@ -1,4 +1,4 @@
-## [Deep Residual Learning for Image Recognition](notes/deep-residual-learning-for-image-recognition.md)
+## [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf)
 
 tl;dr: The original ResNet paper.
 

@@ -2,25 +2,25 @@
 
 #### 2017-10
 
-* Single-Channel Multi-Speaker Separation using Deep Clustering [[arxiv]](http://arxiv.org/abs/1607.02173) [[notes](notes/single-channel-multi-speaker-separation-using-deep-clustering.md)]
-* Deep clustering: Discriminative embeddings for segmentation and separation [[arxiv]](http://arxiv.org/abs/1508.04306) [[notes](notes/deep-clustering-discriminative-embeddings-for-segmentation-and-separation.md)]
-* Learning Hierarchical Features for Scene Labeling [[url](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)] [[notes](notes/learning-hierarchical-features-for-scene-labeling.md)]
-* Pixel Recurrent Neural Networks [[arxiv](http://arxiv.org/abs/1601.06759)] [[notes](notes/pixel-rnns.md)]
-* Artistic Style Transfer For Videos [[arxiv](http://arxiv.org/abs/1412.7449)] [[notes](notes/artistic-style-transfer-for-videos.md)]
-* Grammar as a Foreign Language [[arxiv](http://arxiv.org/abs/1412.7449)] [[notes](notes/grammar-as-a-foreign-language.md)]
-* Deep Convolutional Neural Network Design Patterns [[arxiv](http://arxiv.org/abs/1611.00847)] [[notes](notes/deep-conv-net-design-patterns.md)]
-* Massive Exploration of Neural Machine Translation Architectures [[arxiv](http://arxiv.org/abs/1703.03906)] [[notes](notes/massive-exploration-of-nmt-architectures.md)]
-* Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)] [[notes](notes/attention-is-all-you-need.md)]
+* Single-Channel Multi-Speaker Separation using Deep Clustering [[arxiv]](http://arxiv.org/abs/1607.02173) [[notes](single-channel-multi-speaker-separation-using-deep-clustering.md)]
+* Deep clustering: Discriminative embeddings for segmentation and separation [[arxiv]](http://arxiv.org/abs/1508.04306) [[notes](deep-clustering-discriminative-embeddings-for-segmentation-and-separation.md)]
+* Learning Hierarchical Features for Scene Labeling [[url](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)] [[notes](learning-hierarchical-features-for-scene-labeling.md)]
+* Pixel Recurrent Neural Networks [[arxiv](http://arxiv.org/abs/1601.06759)] [[notes](pixel-rnns.md)]
+* Artistic Style Transfer For Videos [[arxiv](http://arxiv.org/abs/1412.7449)] [[notes](artistic-style-transfer-for-videos.md)]
+* Grammar as a Foreign Language [[arxiv](http://arxiv.org/abs/1412.7449)] [[notes](grammar-as-a-foreign-language.md)]
+* Deep Convolutional Neural Network Design Patterns [[arxiv](http://arxiv.org/abs/1611.00847)] [[notes](deep-conv-net-design-patterns.md)]
+* Massive Exploration of Neural Machine Translation Architectures [[arxiv](http://arxiv.org/abs/1703.03906)] [[notes](massive-exploration-of-nmt-architectures.md)]
+* Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)] [[notes](attention-is-all-you-need.md)]
 
 #### 2017-09
 
-* [Short summaries for a variety of attention papers](notes/attention.md)
-* DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](notes/devise.md)]
+* [Short summaries for a variety of attention papers](attention.md)
+* DeViSE: A Deep Visual-Semantic Embedding Model [[research.google](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](devise.md)]
 * DRAW: Deep Recurrent Attentive Writer [[arxiv](https://arxiv.org/abs/1502.04623)] [[blog](https://medium.com/paper-club/draw-generating-small-images-by-adding-attention-to-variational-autoencoders-430ba241972b)]
 
 #### 2017-08
 
-* A Biomedical Information Extraction Primer for NLP Researchers [[arxiv](https://arxiv.org/abs/1705.05437)] [[notes](notes/biomedical-info-extraction-primer.md)]
+* A Biomedical Information Extraction Primer for NLP Researchers [[arxiv](https://arxiv.org/abs/1705.05437)] [[notes](biomedical-info-extraction-primer.md)]
 * FaceNet: A Unified Embedding for Face Recognition and Clustering [[arxiv](https://arxiv.org/abs/1503.03832)]
 * Neural Machine Translation by Jointly Learning to Align and Translate [[arxiv](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi5w_-uvc3WAhVS3WMKHcMIA2oQFggrMAA&url=https%3A%2F%2Farxiv.org%2Fabs%2F1409.0473&usg=AOvVaw18karG5qoaCtgEx3nhhnT7)) [[blog](https://medium.com/paper-club/remarques-sur-la-traduction-de-la-machine-neurale-en-apprenant-ensemble-%C3%A0-aligner-et-%C3%A0-traduire-cd23004cf207)]
 * Enriching Word Vectors with Subword Information [[arxiv](https://arxiv.org/pdf/1607.04606.pdf)]
@@ -38,8 +38,8 @@
 #### 2017-06
 
 * Resnet in Resnet: Generalizing Residual Architectures [[arxiv](https://arxiv.org/abs/1603.08029)]
-* Residual Networks of Residual Networks: Multilevel Residual Networks [[arxiv](https://arxiv.org/abs/1608.02908v2)] [[notes](notes/residual-networks-of-residual-networks.md)]
-* Deep Residual Learning for Image Recognition [[arxiv](https://arxiv.org/pdf/1512.03385.pdf]) [[notes](notes/deep-residual-learning-for-image-recognition.md)]
+* Residual Networks of Residual Networks: Multilevel Residual Networks [[arxiv](https://arxiv.org/abs/1608.02908v2)] [[notes](residual-networks-of-residual-networks.md)]
+* Deep Residual Learning for Image Recognition [[arxiv](https://arxiv.org/pdf/1512.03385.pdf]) [[notes](deep-residual-learning-for-image-recognition.md)]
 
 ---
 
