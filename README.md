@@ -2,6 +2,7 @@
 
 #### 2017-10
 
+* Single-Channel Multi-Speaker Separation using Deep Clustering [[arxiv]](http://arxiv.org/abs/1607.02173) [[notes](notes/single-channel-multi-speaker-separation-using-deep-clustering.md)]
 * Deep clustering: Discriminative embeddings for segmentation and separation [[arxiv]](http://arxiv.org/abs/1508.04306) [[notes](notes/deep-clustering-discriminative-embeddings-for-segmentation-and-separation.md)]
 * Learning Hierarchical Features for Scene Labeling [[url](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)] [[notes](notes/learning-hierarchical-features-for-scene-labeling.md)]
 * Pixel Recurrent Neural Networks [[arxiv](http://arxiv.org/abs/1601.06759)] [[notes](notes/pixel-rnns.md)]
