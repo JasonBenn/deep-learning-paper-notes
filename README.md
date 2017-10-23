@@ -2,6 +2,8 @@
 
 #### 2017-10
 
+* [Short summaries for a variety of representation learning papers](representation-learning.md)
+* NIPS 2016 Tutorial: Generative Adversarial Networks [[arxiv](http://arxiv.org/abs/1701.00160)][[notes](nips-2016-tutorial-gans.md)]
 * Opportunities And Obstacles For Deep Learning In Biology And Medicine [biorxiv](https://www.biorxiv.org/content/early/2017/05/28/142760) [notes](opportunities-and-obstacles-for-deep-learning-in-biology-and-medicine.md)
 * Single-Channel Multi-Speaker Separation using Deep Clustering [[arxiv]](http://arxiv.org/abs/1607.02173) [[notes](single-channel-multi-speaker-separation-using-deep-clustering.md)]
 * Deep clustering: Discriminative embeddings for segmentation and separation [[arxiv]](http://arxiv.org/abs/1508.04306) [[notes](deep-clustering-discriminative-embeddings-for-segmentation-and-separation.md)]
