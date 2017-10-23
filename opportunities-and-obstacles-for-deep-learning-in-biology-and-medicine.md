@@ -7,44 +7,54 @@ _May 2017_
 *tl;dr*: after a first pass, these are the particularly interesting papers that I'd want to explore further:
 
 #### 1b Electronic Health Records
-81, 82: DeepPatient. Denoising autoencoders can create useful reprs of patients, huge for insurance. But no data.
+
+* 81, 82: DeepPatient. Denoising autoencoders can create useful reprs of patients, huge for insurance. But no data.
 
 #### 1c Challenges/opportunities In Patient Categorization
-92: Can reduce reliance on expert review w semi/un-supervised or "anchor and learn" framework (rely on high confidence observations to infer labels).
+
+* 92: Can reduce reliance on expert review w semi/un-supervised or "anchor and learn" framework (rely on high confidence observations to infer labels).
 
 #### 2e MiRNA
-185, 186: Some success with RNNs on sequences.
+
+* 185, 186: Some success with RNNs on sequences.
 
 #### 2f Protein Folding
-27, 199, 200: Contact map prediction: harder than ^ but much better for tertiary structure prediction. Some success with 2D RNNs.
+
+* 27, 199, 200: Contact map prediction: harder than ^ but much better for tertiary structure prediction. Some success with 2D RNNs.
 
 #### 2g Morphological Phenotypes
-16,202,203: Image analysis via segmentation super successful.
+
+* 16,202,203: Image analysis via segmentation super successful.
 
 #### 3a Clinical Decision Making
-268: representations of causal relationships
-269: clinical time series NN, analyzed hidden neurons for causality
+
+* 268: representations of causal relationships
+* 269: clinical time series NN, analyzed hidden neurons for causality
 
 #### 3b Drug Repositioning
-35: "most promising piece of work" but a proof-of-concept.
+
+* 35: "most promising piece of work" but a proof-of-concept.
 
 #### 3c Drug Development
-Interesting representations of chemical compounds: 308, 309.
-311: One-shot learning to infer representations for new tasks with just 1-10 examples.
-312, 313: datasets
-316: atomic convolutions: future potential for modeling protein structure.
-314, 324: representations for chemicals useful for generating compounds, like how word2vec is useful for NLP tasks.
+
+* Interesting representations of chemical compounds: 308, 309.
+* 311: One-shot learning to infer representations for new tasks with just 1-10 examples.
+* 312, 313: datasets
+* 316: atomic convolutions: future potential for modeling protein structure.
+* 314, 324: representations for chemicals useful for generating compounds, like how word2vec is useful for NLP tasks.
 
 #### 4b Interpretation
-168, 177, 333: Occluding/changing parts of input, observing change.
-335: Backprop to input layer
-344: Visualizing hidden representation
-352: Attention on DNA
-353: attention for EHR
-365: GAN that produces "rationales" - what?! Beat attentional method.
+
+* 168, 177, 333: Occluding/changing parts of input, observing change.
+* 335: Backprop to input layer
+* 344: Visualizing hidden representation
+* 352: Attention on DNA
+* 353: attention for EHR
+* 365: GAN that produces "rationales" - what?! Beat attentional method.
 
 #### 4e Data, Code, And Model Sharing
-313: DeepChem, open source approaches to drug discovery, compared.
+
+* 313: DeepChem, open source approaches to drug discovery, compared.
 
 ---
 

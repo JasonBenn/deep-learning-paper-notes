@@ -2,7 +2,7 @@
 
 #### 2017-10
 
-* Opportunities And Obstacles For Deep Learning In Biology And Medicine [biorxiv](https://www.biorxiv.org/content/early/2017/05/28/142760) [notes](opportunities-and-obstacles-for-deep-learning-in-biology-and-medicine.md)
+* Opportunities And Obstacles For Deep Learning In Biology And Medicine [[biorxiv](https://www.biorxiv.org/content/early/2017/05/28/142760)] [[notes](opportunities-and-obstacles-for-deep-learning-in-biology-and-medicine.md)]
 * Single-Channel Multi-Speaker Separation using Deep Clustering [[arxiv]](http://arxiv.org/abs/1607.02173) [[notes](single-channel-multi-speaker-separation-using-deep-clustering.md)]
 * Deep clustering: Discriminative embeddings for segmentation and separation [[arxiv]](http://arxiv.org/abs/1508.04306) [[notes](deep-clustering-discriminative-embeddings-for-segmentation-and-separation.md)]
 * Learning Hierarchical Features for Scene Labeling [[url](http://yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf)] [[notes](learning-hierarchical-features-for-scene-labeling.md)]
