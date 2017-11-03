@@ -19,3 +19,7 @@ tl;dr: an early proof of concept that gets SOTA on MNIST (impressive!) and 10.2%
 * Hinton emphasized that this is just one possible simple implementation of the capsules idea - there are many that might work.
 * Is the goal of the reconstruction loss to incentivize more interpretable capsules? It's a pretty cool idea.
 * You could probably take the reconstruction loss idea to any other CNN architecture - just take the last layer's activations.
+
+#### Flashcard
+
+* Dynamic Routing Between Capsules?;Hinton, Q4 '17;A capsule = a groups of conv filters that output a vector, compared to CNNs which output one value for feature detector. Capsule length represents likelihood of that part existing in input.<br>Margin loss: length of final capsules compared to one-hot encoded input, reconstructive loss: decode vector into image and compare to input (encourages capsules to encode meaningful features)<br>SOTA MNIST, 10.2% on CIFAR10<br>Uses attention-like "routing by agreement" idea to route low-level capsules to high-level capsules whose activations point in similar direction. Replaces pooling, where you lose tons of info;
