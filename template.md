@@ -1,4 +1,4 @@
-## [Title](arxiv)
+## [Title](pdf)
 
 _Jun 2017_
 

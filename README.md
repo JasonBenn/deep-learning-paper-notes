@@ -1,5 +1,9 @@
 ## Paper notes
 
+#### 2017-11
+
+* Dynamic Routing Between Capsules [[pdf](https://research.google.com/pubs/pub46351.html)] [[notes](dynamic-routing-between-capsules.md)]
+
 #### 2017-10
 
 * Quick summaries: Wasserstein GAN, BEGAN, Batch and Weight Normalization in GANs [[notes](wgan-bgan-weight-norm-gans.md)]
