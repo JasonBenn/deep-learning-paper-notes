@@ -2,7 +2,7 @@
 
 _Oct 2017_
 
-tl;dr: an early proof of concept that gets SOTA on MNIST (impressive!) and 10.2% loss on CIFAR10 (not as impressive). Some really neat ideas here, like reconstructive loss, rotational invariance, and outputting meaningful vectors and measuring their lengths. The capsule idea is what is important, not the implementation.
+tl;dr: an early proof of concept that gets SOTA on MNIST (impressive!) and 10.2% loss on CIFAR10 (not as impressive). Some really neat ideas here, like reconstructive loss, rotational invariance, and outputting meaningful vectors and measuring their lengths. Hinton emphasized that the capsule idea is what's important, not the implementation.
 
 #### Key ideas
 
@@ -12,7 +12,7 @@ tl;dr: an early proof of concept that gets SOTA on MNIST (impressive!) and 10.2%
 * Data augmentation and adversarial examples are an indication of a problem with convnets.
 * Neat property of the output vectors: their length will be similarly high for e.g. an image of a 7 and an image of an upside-down 7, but they'll encode lots more state about the input, like their rotation; this reduces the need for data agumentation.
 * A neat insight: we "see" things with a series of eye fixations, each of which identify low-level features, which we cobble together into a high-level feature. Capsules mimic this with an iterative routing process. Low-level neurons choose their parent neurons, building up a tree structure. Capsules have to be sufficiently excited to be "activated".
-* Dynamic routing is confusing.
+* Because capsules output a meaningful vector, we can measure the extent to which capsules "agree" with one another by measuring the scalar/dot product between them. Use this as the basis for Dynamic Routing, where vectors send their output to whatever higher-level capsules agree most with them. Reminds me of attention.
 
 #### Notes/Questions
 
