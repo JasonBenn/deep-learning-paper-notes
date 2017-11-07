@@ -2,6 +2,7 @@
 
 #### 2017-11
 
+* Concrete Problems in AI Safety [[link](http://arxiv.org/abs/1606.06565)] [[notes](concrete-problems-in-ai-safety.md)]
 * Dynamic Routing Between Capsules [[link](https://research.google.com/pubs/pub46351.html)] [[notes](dynamic-routing-between-capsules.md)]
 
 #### 2017-10
