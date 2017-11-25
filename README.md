@@ -4,6 +4,7 @@
 
 * Rethinking generalization requires revisiting old ideas [[link](https://arxiv.org/pdf/1710.09553.pdf)] [[notes](rethinking-generalization.md)]
 * Generalization in Deep Learning [[link](https://arxiv.org/abs/1710.05468)] [[notes](generalization-in-deep-learning.md)]
+* Understanding deep learning requires rethinking generalization [[link](https://arxiv.org/abs/1611.03530)] [[notes](rethinking-generalixation.md)]
 * Generative Adversarial Nets: An Overview [[link](https://arxiv.org/abs/1710.07035)] [[notes](gans-an-overview.md)]
 * Concrete Problems in AI Safety [[link](http://arxiv.org/abs/1606.06565)] [[notes](concrete-problems-in-ai-safety.md)]
 * Dynamic Routing Between Capsules [[link](https://research.google.com/pubs/pub46351.html)] [[notes](dynamic-routing-between-capsules.md)]
