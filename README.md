@@ -2,6 +2,7 @@
 
 #### 2017-11
 
+* Quick summaries: other generalization papers [[notes](generalization-summaries.md)]
 * Rethinking generalization requires revisiting old ideas [[link](https://arxiv.org/pdf/1710.09553.pdf)] [[notes](rethinking-generalization.md)]
 * Generalization in Deep Learning [[link](https://arxiv.org/abs/1710.05468)] [[notes](generalization-in-deep-learning.md)]
 * Understanding deep learning requires rethinking generalization [[link](https://arxiv.org/abs/1611.03530)] [[notes](rethinking-generalixation.md)]
