@@ -2,6 +2,7 @@
 
 #### 2017-11
 
+* Generative Adversarial Nets: An Overview [[link](https://arxiv.org/abs/1710.07035)] [[notes](gans-an-overview.md)]
 * Concrete Problems in AI Safety [[link](http://arxiv.org/abs/1606.06565)] [[notes](concrete-problems-in-ai-safety.md)]
 * Dynamic Routing Between Capsules [[link](https://research.google.com/pubs/pub46351.html)] [[notes](dynamic-routing-between-capsules.md)]
 
