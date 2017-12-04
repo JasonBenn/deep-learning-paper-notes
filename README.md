@@ -2,6 +2,7 @@
 
 #### 2017-11
 
+* A Primer on Optimal Transport [[link](https://optimaltransport.github.io/)] [[notes](primer-optimal-transport.md)]
 * Quick summaries: other generalization papers [[notes](generalization-summaries.md)]
 * Rethinking generalization requires revisiting old ideas [[link](https://arxiv.org/pdf/1710.09553.pdf)] [[notes](rethinking-generalization.md)]
 * Generalization in Deep Learning [[link](https://arxiv.org/abs/1710.05468)] [[notes](generalization-in-deep-learning.md)]
