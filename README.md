@@ -1,5 +1,7 @@
 ## Paper notes
 
+* Talk: On Bayesian Deep Learning and Deep Bayesian Learning [[notes](on-bayesian-deep-learning-deep-bayesian-learning.md)]
+
 #### 2017-11
 
 * Fairness in ML [[notes](fairness-in-ml.md)]
