@@ -1,5 +1,6 @@
 ## Paper notes
 
+* Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning [[notes](meta-learners-for-estimating-heterogeneous-treatment-effects-using-machine-learning.md)]
 * Talk: Medical Machine Intelligence [[notes](medical-machine-intelligence.md)]
 * Talk: ML for Health Keynote (Fei-Fei Li): Illuminating the Dark Spaces of Healthcare [[notes](illuminating-the-dark-spaces-of-healthcare.md)]
 * Talk: Are GANs creative? [[notes](are-gans-creative.md)]
