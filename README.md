@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Talk: Translating a Trillion Points of Data into Diagnostics, Therapies and New Insights in Health & Disease [[notes](translating-a-trillion-points-of-data.md)]
 * Panels: Causal inference, ML for the developing world [[notes](panels-causal-inference-ml4dw.md)]
 * Meta-learners for Estimating Heterogeneous Treatment Effects using Machine Learning [[notes](meta-learners-for-estimating-heterogeneous-treatment-effects-using-machine-learning.md)]
 * Talk: Medical Machine Intelligence [[notes](medical-machine-intelligence.md)]
