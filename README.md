@@ -1,5 +1,6 @@
 ## Paper notes
 
+* Talk: ML for Health Keynote (Fei-Fei Li): Illuminating the Dark Spaces of Healthcare [[notes](illuminating-the-dark-spaces-of-healthcare.md)]
 * Talk: Are GANs creative? [[notes](are-gans-creative.md)]
 * Talk: Computational Methods for Solving Developing World Problems [[notes](ml-for-the-developing-world.md)]
 * Talk: On Bayesian Deep Learning and Deep Bayesian Learning [[notes](on-bayesian-deep-learning-deep-bayesian-learning.md)]
