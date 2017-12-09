@@ -1,5 +1,6 @@
 ## Paper notes
 
+* Talk: Computational Methods for Solving Developing World Problems [[notes](ml-for-the-developing-world.md)]
 * Talk: On Bayesian Deep Learning and Deep Bayesian Learning [[notes](on-bayesian-deep-learning-deep-bayesian-learning.md)]
 
 #### 2017-11
