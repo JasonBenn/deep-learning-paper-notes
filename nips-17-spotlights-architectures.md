@@ -1,6 +1,5 @@
 ## NIPS 2017: Architecture spotlights
 
-
 ### Spherical convolutions and their application in molecular modelling
 
 Coool - 3d convs by sliding filter over concentric spheres of different radius.
@@ -87,3 +86,14 @@ Cool… could generate interesting video where just the pose is changing.
 
 Does better than MCNet.
 
+### Lessons learned from implementing MLPACK
+
+Language? Well - you could write in MATLAB, R, or Python, but you’ll end up writing things in C++, so just use C++.
+Arbitrary data or double-precision matrix-shaped data? The latter.
+Inputs: only values in reasonable ranges.
+Targeting: x86-64 CPU.
+
+Strategy: just make something work. The simplest, smallest possible thing. Data structure: Goal is to make our decision tree node, so let’s make it as small as possible, so we can fit as many as possible in cache.
+
+Algorithm: interested in information gain. This is how we decide whether to split a node.
+Find gain of the unsplit node.

@@ -27,3 +27,15 @@ Intervention on a: raise the city, find that temperature changes. Therefore, alt
 * We also expect p(t|a) (hypothetical mechanism) to be invariant no matter where we are in the world.
 
 Goddamn, this talk was boring.
+
+### Disentangled representations panel
+
+“Vision is an inference problem, and it’s an ill-posed problem”
+
+Question: how do you reconcile not throwing away information with you want to throw away as much information?
+* Boils down to how you define information. You need to retain as much mutual information as possible. You’re just throwing away nuisance variability.
+* Depends on the task though: you can throw away almost all of the data, still retain all of the information.
+* Independence alone is not enough - this isn’t a good enough task.
+
+Call: what’s a good challenge for representations? How do we quantify great representations?
+What does that task structure look like?
