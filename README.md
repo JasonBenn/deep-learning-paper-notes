@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Talk: What’s so Hard About Natural Language Understanding? [[notes](whats-so-hard-about-natural-language-understanding.md)]
 * Talk: Probabilistic Programming with Pyro [[notes](probabilistic-programming-with-pyro.md)]
 * Talk: Exploring the different paths to achieving disentangled representations
 [[notes](exploring-the-different-paths-to-achieving-disentangled-representations.md)]
