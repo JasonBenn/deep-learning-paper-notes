@@ -86,22 +86,9 @@ md
 
 ---
 
-#### Other collections of paper reviews
+#### Other collections of paper notes
 
-* [the morning paper](https://blog.acolyer.org/tag/deep-learning)
-* [/dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
-* [/hoangcuong2011/Good-Papers](https://github.com/hoangcuong2011/Good-Papers)
-* [/aleju/papers](https://github.com/aleju/papers)
-
-#### Where I find papers to read
-
-* [Tweets liked by Jeremy Howard](https://twitter.com/jeremyphoward/likes)
-* [terryum/awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
-* [/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-* ICML/NIPS papers
-* Papers with existing [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list) [implementations](https://github.com/ritchieng/the-incredible-pytorch)
-* [Twitter](https://twitter.com/jasoncbenn/likes)
-
-#### Collections of research notes
-
-* [Old (2011) research ideas/notes from Ian Goodfellow](https://github.com/goodfeli/galatea/blob/master/mission_log.txt)
+* Adrian Colyer [[link](https://blog.acolyer.org/tag/deep-learning)]
+* Denny Britz [[link](https://github.com/dennybritz/deeplearning-papernotes)]
+* Hoang Cuong [[link](https://github.com/hoangcuong2011/Good-Papers)]
+* Alexander Jung [[link](https://github.com/aleju/papers)]
