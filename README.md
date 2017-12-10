@@ -3,6 +3,7 @@
 #### 2017-12
 
 * Talk: Learning State Representations [[notes](learning-state-representations.md)]
+* Inductive Representation Learning on Large Graphs [[inductive-representation-learning-on-large-graphs.md]]
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Algorithms spotlights [[notes](algorithms-spotlights.md)]
