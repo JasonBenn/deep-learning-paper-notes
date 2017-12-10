@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Talk: Probabilistic Programming with Pyro [[notes](probabilistic-programming-with-pyro.md)]
 * Talk: Exploring the different paths to achieving disentangled representations
 [[notes](exploring-the-different-paths-to-achieving-disentangled-representations.md)]
 * Talk: Priors to help automatically discover and disentangle explanatory factors [[notes](priors-to-help-automatically-discover-and-disentangle-explanatory-factors.md)]
