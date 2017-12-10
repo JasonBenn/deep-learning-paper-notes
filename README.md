@@ -4,7 +4,7 @@
 
 * Overheard at NIPS '17 [[notes](overheard-at-nips.md)]
 * Learning disentangled representations for RL [[notes](learning-disentangled-representations-for-rl.md)]
-* Inductive Representation Learning on Large Graphs [[inductive-representation-learning-on-large-graphs.md]]
+* Inductive Representation Learning on Large Graphs [[notes](inductive-representation-learning-on-large-graphs.md)]
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Probabilistic methods spotlights [[notes](nips-17-spotlights-algorithms.md)]
