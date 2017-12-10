@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Algorithms spotlights [[notes](algorithms-spotlights.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
