@@ -7,6 +7,7 @@
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Algorithms spotlights [[notes](nips-17-spotlights-algorithms.md)]
+* Talks: Architectures spotlights [[notes](nips-17-spotlights-architectures.md)]
 * Talk: Learning State Representations [[notes](learning-state-representations.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
 * Talk: What’s so Hard About Natural Language Understanding? [[notes](whats-so-hard-about-natural-language-understanding.md)]
