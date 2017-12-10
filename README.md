@@ -2,6 +2,8 @@
 
 #### 2017-12
 
+* Talk: Exploring the different paths to achieving disentangled representations
+[[notes](exploring-the-different-paths-to-achieving-disentangled-representations.md)]
 * Talk: Priors to help automatically discover and disentangle explanatory factors [[notes](priors-to-help-automatically-discover-and-disentangle-explanatory-factors.md)]
 * Talk: Interpretable Discovery in Large Image Data Sets [[notes](interpretable-discovery-in-large-image-data-sets)]
 * Talk: Generative Adversarial Imitation Learning [[notes](generative-adversarial-imitation-learning.md)]
