@@ -8,6 +8,7 @@
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Probabilistic methods spotlights [[notes](nips-17-spotlights-algorithms.md)]
 * Talks: Algorithms spotlights [[notes](nips-17-spotlights-algorithms.md)]
+* Talks: Interpretibility spotlights [[notes](nips-17-spotlights-interpretibility.md)]
 * Talks: Architectures spotlights [[notes](nips-17-spotlights-architectures.md)]
 * Talk: Learning State Representations [[notes](learning-state-representations.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
