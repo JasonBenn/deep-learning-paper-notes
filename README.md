@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Counterfactual fairness [[notes](counterfactual-fairness.md)]
 * Talks: Algorithms spotlights [[notes](algorithms-spotlights.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
 * Talk: What’s so Hard About Natural Language Understanding? [[notes](whats-so-hard-about-natural-language-understanding.md)]
