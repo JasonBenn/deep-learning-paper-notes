@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Talk: Priors to help automatically discover and disentangle explanatory factors [[notes](priors-to-help-automatically-discover-and-disentangle-explanatory-factors.md)]
 * Talk: Interpretable Discovery in Large Image Data Sets [[notes](interpretable-discovery-in-large-image-data-sets)]
 * Talk: Generative Adversarial Imitation Learning [[notes](generative-adversarial-imitation-learning.md)]
 * Talk: Translating a Trillion Points of Data into Diagnostics, Therapies and New Insights in Health & Disease [[notes](translating-a-trillion-points-of-data.md)]
