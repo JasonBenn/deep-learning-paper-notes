@@ -6,6 +6,7 @@
 * Inductive Representation Learning on Large Graphs [[inductive-representation-learning-on-large-graphs.md]]
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
+* Talks: Probabilistic methods spotlights [[notes](nips-17-spotlights-algorithms.md)]
 * Talks: Algorithms spotlights [[notes](nips-17-spotlights-algorithms.md)]
 * Talks: Architectures spotlights [[notes](nips-17-spotlights-architectures.md)]
 * Talk: Learning State Representations [[notes](learning-state-representations.md)]
