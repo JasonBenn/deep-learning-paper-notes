@@ -2,7 +2,7 @@
 
 #### 2017-12
 
-
+* Learning disentangled representations for RL [[notes](learning-disentangled-representations-for-rl.md)]
 * Inductive Representation Learning on Large Graphs [[inductive-representation-learning-on-large-graphs.md]]
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
