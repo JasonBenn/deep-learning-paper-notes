@@ -5,7 +5,7 @@
 * Overheard at NIPS '17 [[notes](talks/overheard-at-nips.md)]
 * Learning disentangled representations for RL [[notes](papers/learning-disentangled-representations-for-rl.md)]
 * Inductive Representation Learning on Large Graphs [[notes](papers/inductive-representation-learning-on-large-graphs.md)]
-* Style Transfer from Non-parallel Text by Cross-Alignment [[notes](papers/style-transfer-from-non-parallel-text-by-cross-alignment)]
+* Style Transfer from Non-parallel Text by Cross-Alignment [[notes](papers/style-transfer-from-non-parallel-text-by-cross-alignment.md)]
 * Counterfactual fairness [[notes](papers/counterfactual-fairness.md)]
 * Probabilistic methods spotlights [[notes](talks/nips-17-spotlights-algorithms.md)]
 * Algorithms spotlights [[notes](talks/nips-17-spotlights-algorithms.md)]
@@ -18,7 +18,7 @@
 * Exploring the different paths to achievingtalks/ disentangled representations
 [[notes](papers/exploring-the-different-paths-to-achieving-disentangled-representations.md)]
 * Priors to help automatically discover and disentangle explanatory factors [[notes](talks/priors-to-help-automatically-discover-and-disentangle-explanatory-factors.md)]
-* Interpretable Discovery in Large Image Data Sets [[notes](talks/interpretable-discovery-in-large-image-data-sets)]
+* Interpretable Discovery in Large Image Data Sets [[notes](papers/interpretable-discovery-in-large-image-data-sets.md)]
 * Generative Adversarial Imitation Learning [[notes](talks/generative-adversarial-imitation-learning.md)]
 * Translating a Trillion Points of Data into Diagnostics, Therapies and New Insights in Health & Disease [[notes](talks/translating-a-trillion-points-of-data.md)]
 * Causal inference, ML for the developing world [[notes](talks/panels-causal-inference-ml4dw.md)]
@@ -26,7 +26,7 @@
 * Medical Machine Intelligence [[notes](talks/medical-machine-intelligence.md)]
 * ML for Health Keynote (Fei-Fei Li): Illuminating the Dark Spaces of Healthcare [[notes](talks/illuminating-the-dark-spaces-of-healthcare.md)]
 * Are GANs creative? [[notes](talks/are-gans-creative.md)]
-* Computational Methods for Solving Developing World Problems [[notes](talks/ml-for-the-developing-world.md)]
+* Computational Methods for Solving Developing World Problems [[notes](talks/computational-methods-for-solving-developing-world-problems.md)]
 * On Bayesian Deep Learning and Deep Bayesian Learning [[notes](talks/on-bayesian-deep-learning-deep-bayesian-learning.md)]
 
 #### 2017-11
@@ -57,10 +57,10 @@
 
 #### 2017-09
 
-* Quick summaries: attention papers [[notes](papers/attention.md)]
+* Quick summaries: attention papers [[notes](papers/summaries-attention.md)]
 * DeViSE: A Deep Visual-Semantic Embedding Model [[link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41869.pdf)] [[notes](papers/devise.md)]
 * DRAW: Deep Recurrent Attentive Writer [[link](https://arxiv.org/abs/1502.04623)] [[blog](https://medium.com/paper-club/draw-generating-small-images-by-adding-attention-to-variational-autoencoders-430ba241972b)]
-
+md
 #### 2017-08
 
 * A Biomedical Information Extraction Primer for NLP Researchers [[link](https://arxiv.org/abs/1705.05437)] [[notes](papers/biomedical-info-extraction-primer.md)]

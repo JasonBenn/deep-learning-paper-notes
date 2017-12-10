@@ -1,4 +1,4 @@
-## Computational Methods ofr Solving Developing World Problems
+## Computational Methods for Solving Developing World Problems
 
 Two problems:
 * Lack of expert labor
