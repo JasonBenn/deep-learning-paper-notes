@@ -2,11 +2,12 @@
 
 #### 2017-12
 
-* Talk: Learning State Representations [[notes](learning-state-representations.md)]
+
 * Inductive Representation Learning on Large Graphs [[inductive-representation-learning-on-large-graphs.md]]
 * Style Transfer from Non-parallel Text by Cross-Alignment [[notes](style-transfer-from-non-parallel-text-by-cross-alignment)]
 * Counterfactual fairness [[notes](counterfactual-fairness.md)]
-* Talks: Algorithms spotlights [[notes](algorithms-spotlights.md)]
+* Talks: Algorithms spotlights [[notes](nips-17-spotlights-algorithms.md)]
+* Talk: Learning State Representations [[notes](learning-state-representations.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
 * Talk: What’s so Hard About Natural Language Understanding? [[notes](whats-so-hard-about-natural-language-understanding.md)]
 * Talk: Probabilistic Programming with Pyro [[notes](probabilistic-programming-with-pyro.md)]
