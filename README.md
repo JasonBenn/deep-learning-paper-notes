@@ -2,6 +2,7 @@
 
 #### 2017-12
 
+* Talks: Algorithms spotlights [[notes](algorithms-spotlights.md)]
 * Talk: Overcoming Limited Data with GANs [[notes](overcoming-limited-data-with-gans.md)]
 * Talk: What’s so Hard About Natural Language Understanding? [[notes](whats-so-hard-about-natural-language-understanding.md)]
 * Talk: Probabilistic Programming with Pyro [[notes](probabilistic-programming-with-pyro.md)]
