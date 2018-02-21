@@ -1,5 +1,9 @@
 ## Paper notes
 
+#### 2018-02
+
+* Stability and Generalization [[notes](papers/stability-and-generalization.md)] [[link](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)]
+
 #### 2017-12
 
 * Overheard at NIPS '17 [[notes](talks/overheard-at-nips.md)]
