@@ -1,7 +1,10 @@
 ## Paper notes
+_Related: my [flashcards](https://github.com/JasonBenn/flashcards) repo._
 
 #### 2018-02
 
+* Bayesian Methods for Hackers, Chapter 2 [[notes](papers/bayesian-methods-2.md)] [[link](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter2_MorePyMC/Ch2_MorePyMC_PyMC3.ipynb)]
+* Bayesian Methods for Hackers, Chapter 1 [[notes](papers/bayesian-methods-1.md)] [[link](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Ch1_Introduction_PyMC3.ipynb)]
 * Stability and Generalization [[notes](papers/stability-and-generalization.md)] [[link](http://www.jmlr.org/papers/volume2/bousquet02a/bousquet02a.pdf)]
 
 #### 2017-12
